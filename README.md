@@ -8,7 +8,8 @@ The purpose of this analysis is to determine if there is any bias towards favora
 After performing the ETL process on the dataset, we found that -
 - ![](https://github.com/ketpradh/Amazon_Vine_Analysis/blob/main/Resources/Reviews%20Total%20result%20set.PNG)
 - There were **1,23,748** reviews in total, out of which **255** were Vine reviews and **1,23,493** were Non-Vine reviews.
-- ![](https://github.com/ketpradh/Amazon_Vine_Analysis/blob/main/Resources/Reviews%20Total%20result%20set.PNG)
+- ![Vine Reviews](https://github.com/ketpradh/Amazon_Vine_Analysis/blob/main/Resources/Vine%20Reviews%20set.PNG)
+- ![Non-Vine Reviews](https://github.com/ketpradh/Amazon_Vine_Analysis/blob/main/Resources/Non-Vine%20Reviews%20set.PNG)
 - Out of the total **72,836** 5 star reviews, there were **102** Vine reviews that were 5 stars and **72,734** non-Vine reviews that were 5 stars.
 - **40%** of Vine reviews were 5 stars whereas **~59%** of non-Vine reviews were 5 stars.
 
